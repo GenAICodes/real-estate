@@ -1,0 +1,5 @@
+
+// Test the application by sending requests to the following endpoints:
+// POST http://localhost:8080/api/properties/add
+// GET http://localhost:8080/api/properties/{name}
+// GET http://localhost:8080/api/properties/all
